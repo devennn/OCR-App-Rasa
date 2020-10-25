@@ -1,2 +1,2 @@
-# OCR_App_Rasa
+# OCR App Rasa
 OCR Appa rasa chatbot
